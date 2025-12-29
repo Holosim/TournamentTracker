@@ -1,0 +1,5 @@
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.csproj.AssemblyReference.cache
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.AssemblyInfoInputs.cache
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.AssemblyInfo.cs
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net48\TrackerLibrary.csproj.CoreCompileInputs.cache

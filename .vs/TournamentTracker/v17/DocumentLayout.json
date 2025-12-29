@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_Dev\\TournamentTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\tournamenttracker\\trackerlibrary\\trackerlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\trackerlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TrackerUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\tournamenttracker\\trackerlibrary\\textconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\textconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|c:\\_dev\\tournamenttracker\\trackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\tournamenttracker\\trackerlibrary\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\tournamenttracker\\trackerlibrary\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\tournamenttracker\\trackerlibrary\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\tournamenttracker\\trackerlibrary\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\globalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|C:\\_Dev\\TournamentTracker\\trackerui\\tournamentdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\tournamentdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|C:\\_Dev\\TournamentTracker\\trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createprizeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|C:\\_Dev\\TournamentTracker\\trackerui\\createteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createteamform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|C:\\_Dev\\TournamentTracker\\trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\tournamentviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|C:\\_Dev\\TournamentTracker\\trackerui\\createtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|c:\\_dev\\tournamenttracker\\trackerui\\trackerui.csproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532",
+      "RelativeMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\trackerui.csproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerUI\\Program.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\Program.cs",
+              "ToolTip": "C:\\_Dev\\TournamentTracker\\TrackerUI\\Program.cs",
+              "RelativeToolTip": "TrackerUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:32:55.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrackerUI",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+              "RelativeDocumentMoniker": "TrackerUI\\TrackerUI.csproj",
+              "ToolTip": "C:\\_Dev\\TournamentTracker\\TrackerUI\\TrackerUI.csproj",
+              "RelativeToolTip": "TrackerUI\\TrackerUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-29T19:22:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackerLibrary",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+              "RelativeDocumentMoniker": "TrackerLibrary\\TrackerLibrary.csproj",
+              "ToolTip": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+              "RelativeToolTip": "TrackerLibrary\\TrackerLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T19:21:56.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextConnector.cs",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\TextConnector.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\TextConnector.cs",
+              "ToolTip": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\TextConnector.cs",
+              "RelativeToolTip": "TrackerLibrary\\TextConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:19:52.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrizeModel.cs",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\PrizeModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\PrizeModel.cs",
+              "ToolTip": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\PrizeModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\PrizeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T19:17:59.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlConnector.cs",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\SqlConnector.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\SqlConnector.cs",
+              "ToolTip": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\SqlConnector.cs",
+              "RelativeToolTip": "TrackerLibrary\\SqlConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:53:37.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalConfig.cs",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\GlobalConfig.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\GlobalConfig.cs",
+              "ToolTip": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\GlobalConfig.cs",
+              "RelativeToolTip": "TrackerLibrary\\GlobalConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:34:45.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataConnection.cs",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\IDataConnection.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\IDataConnection.cs",
+              "ToolTip": "C:\\_Dev\\TournamentTracker\\TrackerLibrary\\IDataConnection.cs",
+              "RelativeToolTip": "TrackerLibrary\\IDataConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:05:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TournamentDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerUI\\TournamentDashboardForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\TournamentDashboardForm.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerUI\\TournamentDashboardForm.cs [Design]",
+              "RelativeToolTip": "..\\_git\\TournamentTracker\\TrackerUI\\TournamentDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:59:35.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatePrizeForm.cs [Design]",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerUI\\CreatePrizeForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreatePrizeForm.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerUI\\CreatePrizeForm.cs [Design]",
+              "RelativeToolTip": "..\\_git\\TournamentTracker\\TrackerUI\\CreatePrizeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:49:55.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateTournamentForm.cs [Design]",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerUI\\CreateTournamentForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreateTournamentForm.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerUI\\CreateTournamentForm.cs [Design]",
+              "RelativeToolTip": "..\\_git\\TournamentTracker\\TrackerUI\\CreateTournamentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:47:53.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTeamForm.cs [Design]",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerUI\\CreateTeamForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\CreateTeamForm.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerUI\\CreateTeamForm.cs [Design]",
+              "RelativeToolTip": "..\\_git\\TournamentTracker\\TrackerUI\\CreateTeamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:28:56.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TournamentViewerForm.cs [Design]",
+              "DocumentMoniker": "C:\\_Dev\\TournamentTracker\\TrackerUI\\TournamentViewerForm.cs",
+              "RelativeDocumentMoniker": "TrackerUI\\TournamentViewerForm.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerUI\\TournamentViewerForm.cs [Design]",
+              "RelativeToolTip": "..\\_git\\TournamentTracker\\TrackerUI\\TournamentViewerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:40:31.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

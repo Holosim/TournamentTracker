@@ -1,0 +1,4 @@
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.AssemblyInfoInputs.cache
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.AssemblyInfo.cs
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net5.0\TrackerLibrary.csproj.CoreCompileInputs.cache
