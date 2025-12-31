@@ -5,6 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using TrackerLibrary.Models;
+using TrackerLibrary.DataAccess.TextHelpers;
 
 namespace TrackerLibrary.DataAccess
 {
@@ -18,9 +19,33 @@ namespace TrackerLibrary.DataAccess
     /// concurrently.</remarks>
     public class TextConnector : IDataConnection
     {
+        private const string PrizesFile = "PrizeModels.csv";
         public PrizeModel CreatePrize(PrizeModel model)
         {
-            model.PrizeID = 1;
+            // 1. Load the text file -> Returns a list of strings
+            // 2. Convert the text to a List<PrizeModel>
+            List<PrizeModel> prizes = PrizesFile.FullFilePath().LoadFile().ConvertToPrizeModels(); // Get the full file path for the prizes file
+
+            // 3. Find the max ID
+
+            int currentId = 1;
+
+            if (prizes.Count > 0)
+            {
+                currentId = prizes.OrderByDescending(x => x.PrizeID).First().PrizeID + 1;
+            }
+            
+            model.PrizeID = currentId;
+            
+            // 4. Add the new record with the new ID (max + 1)
+            prizes.Add(model);
+
+            // 5. Convert the List<PrizeModel> to text
+            List<string> lines = new List<string>();
+
+            // 6. Save the list<string> text to the file
+            prizes.SaveToPrizeFile(PrizesFile);
+
             return model;
         }
     }
