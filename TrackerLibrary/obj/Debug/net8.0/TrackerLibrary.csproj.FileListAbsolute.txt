@@ -7,3 +7,14 @@ C:\_Dev\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.dll
 C:\_Dev\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\refint\TrackerLibrary.dll
 C:\_Dev\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.pdb
 C:\_Dev\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\ref\TrackerLibrary.dll
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.csproj.AssemblyReference.cache
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.sourcelink.json
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\bin\Debug\net8.0\TrackerLibrary.deps.json
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\bin\Debug\net8.0\TrackerLibrary.dll
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\bin\Debug\net8.0\TrackerLibrary.pdb
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.dll
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\refint\TrackerLibrary.dll
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\TrackerLibrary.pdb
+C:\_Dev\_git\TournamentTracker\TrackerLibrary\obj\Debug\net8.0\ref\TrackerLibrary.dll

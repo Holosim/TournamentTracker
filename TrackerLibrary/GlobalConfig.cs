@@ -1,28 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using System.Configuration;
+using TrackerLibrary.DataAccess;
 
 namespace TrackerLibrary
 {
     public static class GlobalConfig
     {
-        public static List<IDataConnection> Connections { get; private set; } = new List<IDataConnection>();
-        public static void InitializeConnections(bool database, bool textFiles)
+        // -- For multiple data connections --
+        //public static List<IDataConnection> Connection { get; private set; } = new List<IDataConnection>();
+
+        // -- For single data connection --
+        public static IDataConnection Connection { get; private set; }
+
+        public static void InitializeConnections(DatabaseType db)
         {
-            if (database == true)
+            switch (db)
             {
-                // TODO - Setup the SQL Connector properly
-                SqlConnector sql = new SqlConnector();
-                Connections.Add(sql);
-            }
-            if (textFiles)
-            {
-                // TODO - Setup the Text Connector properly
-                TextConnector text = new TextConnector();
-                Connections.Add(text);
+                case DatabaseType.Sql:
+                    SqlConnector sql = new SqlConnector();
+                    Connection = sql;
+                    break;
+                case DatabaseType.TextFile:
+                    TextConnector text = new TextConnector();
+                    Connection = text;
+                    break;
+                default:
+                    throw new System.Exception("Database type not supported");
             }
         }
+        public static string CnnString(string name)
+        {
+            return ConfigurationManager.ConnectionStrings[name].ConnectionString; // TODO - Return the actual connection string from the configuration
+        }
     }
-}
+
+    }
