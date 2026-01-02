@@ -19,6 +19,36 @@ namespace TrackerLibrary.DataAccess
     /// concurrently.</remarks>
     public class TextConnector : IDataConnection
     {
+        private const string PeopleFile = "PersonModels.csv";
+        public PersonModel CreatePerson(PersonModel model)
+        {
+            // 1. Load the text file -> Returns a list of strings
+            // 2. Convert the text to a List<PrizeModel>
+            List<PersonModel> people = PeopleFile.FullFilePath().LoadFile().ConvertToPersonModels(); // Get the full file path for the people file
+
+            // 3. Find the max ID
+
+            int currentId = 1;
+
+            if (people.Count > 0)
+            {
+                currentId = people.OrderByDescending(x => x.PersonID).First().PersonID + 1;
+            }
+
+            model.PersonID = currentId;
+
+            // 4. Add the new record with the new ID (max + 1)
+            people.Add(model);
+
+            // 5. Convert the List<PersonModel> to text
+            List<string> lines = new List<string>();
+
+            // 6. Save the list<string> text to the file
+            people.SaveToPeopleFile(PeopleFile);
+
+            return model;
+        }
+
         private const string PrizesFile = "PrizeModels.csv";
         public PrizeModel CreatePrize(PrizeModel model)
         {
@@ -47,6 +77,45 @@ namespace TrackerLibrary.DataAccess
             prizes.SaveToPrizeFile(PrizesFile);
 
             return model;
+        }
+
+        public List<PersonModel> GetPerson_All()
+        {
+            return PeopleFile.FullFilePath().LoadFile().ConvertToPersonModels();
+        }
+
+
+        private const string TeamFile = "TeamModels.csv";
+
+        public TeamModel CreateTeam(TeamModel model)
+        {
+            List<TeamModel> teams = TeamFile.FullFilePath().LoadFile().ConvertToTeamModels(PeopleFile);
+            // 3. Find the max ID
+
+            int currentId = 1;
+
+            if (teams.Count > 0)
+            {
+                currentId = teams.OrderByDescending(x => x.TeamID).First().TeamID + 1;
+            }
+
+            model.TeamID = currentId;
+
+            // 4. Add the new record with the new ID (max + 1)
+            teams.Add(model);
+
+            // 5. Convert the List<PrizeModel> to text
+            List<string> lines = new List<string>();
+
+            // 6. Save the list<string> text to the file
+            teams.SaveToTeamFile(TeamFile);
+
+            return model;
+        }
+
+        public List<TeamModel> GetTeam_All()
+        {
+            return TeamFile.FullFilePath().LoadFile().ConvertToTeamModels(PeopleFile);
         }
     }
 }
