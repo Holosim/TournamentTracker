@@ -129,7 +129,20 @@ namespace TrackerUI
             tm.Prizes = selectedPrizes;
             tm.EnteredTeams = selectedTeams;
 
-            // Todo - Wireup the matchups
+            /* Todo - Wireup the matchups
+             * 1. Order the list of teams randomly
+             * 2. Check if the list is big enough - if not, add in byes
+             *      a. Find the next power of 2
+             * 3. Create our first round of matchups
+             * 4. Create every round after that (divide by two until we get to one winner)
+             *      (e.g. Total of 4 rounds)
+             *      a. Round 1 : 8 matchups
+             *      b. Round 2 : 4 matchups
+             *      c. Round 3 : 2 matchups
+             *      d. Round 4 : 1 matchup
+             */
+
+            TournamentLogic.CreateRounds(tm);
 
             // 1. Create tournament entry
             // 2. Create all of the prizes entries a

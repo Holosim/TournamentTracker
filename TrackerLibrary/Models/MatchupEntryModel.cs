@@ -25,6 +25,7 @@ namespace TrackerLibrary.Models
         /// </summary>
         public MatchupModel ParentMatchup { get; set; }
 
+        public MatchupEntryModel() { }
         /// <summary>
         /// Initializes a new instance of the MatchupEntryModel class with the specified initial score.
         /// </summary>
