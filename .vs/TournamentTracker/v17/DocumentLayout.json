@@ -11,28 +11,28 @@
       "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\dataaccess\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerlibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerlibrary\\dataaccess\\textconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\dataaccess\\textconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerlibrary\\models\\tournamentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\models\\tournamentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerlibrary\\models\\matchupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\models\\matchupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerlibrary\\models\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\models\\prizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerlibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\dataaccess\\idataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|C:\\_Dev\\_git\\TournamentTracker\\trackerui\\createtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|solutionrelative:trackerui\\createtournamentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8D5CD5E-F708-4F48-9681-2B172143A130}|TrackerLibrary\\TrackerLibrary.csproj|solutionrelative:trackerlibrary\\dataaccess\\textconnectorprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FBA0084-C22B-4FFF-AA90-1D95B4C73178}|TrackerUI\\TrackerUI.csproj|c:\\_dev\\_git\\tournamenttracker\\trackerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,13 +41,26 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchupModel.cs",
+              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\Models\\MatchupModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\Models\\MatchupModel.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\Models\\MatchupModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\Models\\MatchupModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:14:10.333Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -56,48 +69,9 @@
               "RelativeDocumentMoniker": "TrackerLibrary\\DataAccess\\SqlConnector.cs",
               "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\SqlConnector.cs",
               "RelativeToolTip": "TrackerLibrary\\DataAccess\\SqlConnector.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwGoAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwFcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T17:52:28.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PrizeModel.cs",
-              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\Models\\PrizeModel.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\Models\\PrizeModel.cs",
-              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\Models\\PrizeModel.cs",
-              "RelativeToolTip": "TrackerLibrary\\Models\\PrizeModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T17:51:38.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TournamentModel.cs",
-              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\Models\\TournamentModel.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\Models\\TournamentModel.cs",
-              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\Models\\TournamentModel.cs",
-              "RelativeToolTip": "TrackerLibrary\\Models\\TournamentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T17:51:03.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IDataConnection.cs",
-              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\DataAccess\\IDataConnection.cs",
-              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
-              "RelativeToolTip": "TrackerLibrary\\DataAccess\\IDataConnection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T17:50:37.813Z",
               "EditorCaption": ""
             },
             {
@@ -108,47 +82,72 @@
               "RelativeDocumentMoniker": "TrackerUI\\CreateTournamentForm.cs",
               "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerUI\\CreateTournamentForm.cs",
               "RelativeToolTip": "TrackerUI\\CreateTournamentForm.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAADwv3MAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAUwIMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T14:00:41.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "TextConnector.cs",
+              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnector.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\DataAccess\\TextConnector.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnector.cs",
+              "RelativeToolTip": "TrackerLibrary\\DataAccess\\TextConnector.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:09:09.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextConnectorProcessor.cs",
+              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "RelativeToolTip": "TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAJEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T14:15:37.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDataConnection.cs",
+              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "RelativeToolTip": "TrackerLibrary\\DataAccess\\IDataConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:50:37.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CreateTournamentForm.cs [Design]",
               "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerUI\\CreateTournamentForm.cs",
               "RelativeDocumentMoniker": "TrackerUI\\CreateTournamentForm.cs",
               "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerUI\\CreateTournamentForm.cs [Design]",
               "RelativeToolTip": "TrackerUI\\CreateTournamentForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T06:43:56.867Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-02T06:43:56.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TextConnectorProcessor.cs",
-              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
-              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
-              "RelativeToolTip": "TrackerLibrary\\DataAccess\\TextConnectorProcessor.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwC4AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "PrizeModel.cs",
+              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\Models\\PrizeModel.cs",
+              "RelativeDocumentMoniker": "TrackerLibrary\\Models\\PrizeModel.cs",
+              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\Models\\PrizeModel.cs",
+              "RelativeToolTip": "TrackerLibrary\\Models\\PrizeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T14:15:37.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TextConnector.cs",
-              "DocumentMoniker": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnector.cs",
-              "RelativeDocumentMoniker": "TrackerLibrary\\DataAccess\\TextConnector.cs",
-              "ToolTip": "C:\\_Dev\\_git\\TournamentTracker\\TrackerLibrary\\DataAccess\\TextConnector.cs",
-              "RelativeToolTip": "TrackerLibrary\\DataAccess\\TextConnector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T14:09:09.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T17:51:38.573Z"
             },
             {
               "$type": "Document",

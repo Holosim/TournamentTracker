@@ -20,6 +20,10 @@ namespace TrackerLibrary.DataAccess
     public class TextConnector : IDataConnection
     {
         private const string PeopleFile = "PersonModels.csv";
+        private const string PrizesFile = "PrizeModels.csv";
+        private const string TeamFile = "TeamModels.csv";
+        private const string TournamentFile = "TournamentModels.csv";
+
         public PersonModel CreatePerson(PersonModel model)
         {
             // 1. Load the text file -> Returns a list of strings
@@ -49,7 +53,6 @@ namespace TrackerLibrary.DataAccess
             return model;
         }
 
-        private const string PrizesFile = "PrizeModels.csv";
         public PrizeModel CreatePrize(PrizeModel model)
         {
             // 1. Load the text file -> Returns a list of strings
@@ -85,7 +88,6 @@ namespace TrackerLibrary.DataAccess
         }
 
 
-        private const string TeamFile = "TeamModels.csv";
 
         public TeamModel CreateTeam(TeamModel model)
         {
@@ -118,9 +120,22 @@ namespace TrackerLibrary.DataAccess
             return TeamFile.FullFilePath().LoadFile().ConvertToTeamModels(PeopleFile);
         }
 
-        public TournamentModel CreateTournament(TournamentModel model)
+        public void CreateTournament(TournamentModel model)
         {
-            throw new NotImplementedException();
+            List<TournamentModel> tournaments = TournamentFile
+                .FullFilePath()
+                .LoadFile()
+                .ConvertToTournamentModels(TeamFile,PeopleFile,PrizesFile);
+
+            int currentId = 1;
+
+            if (tournaments.Count > 0)
+            {
+                currentId = tournaments.OrderByDescending(x => x.TournamentID).First().TournamentID + 1;
+            }
+            model.TournamentID = currentId;
+            tournaments.Add(model);
+            tournaments.SaveToTournamentFile(TournamentFile);
         }
     }
 }
